@@ -12,3 +12,20 @@ img,
 video {
   display: block;
 }
+
+.nav {
+  display: flex;
+  flex-direction: row;
+}
+
+.burger {
+
+}
+
+.menu {
+
+}
+
+.tools {
+  
+}
